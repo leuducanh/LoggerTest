@@ -1,6 +1,9 @@
 package util;
 
 import java.io.Serializable;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class Level implements Serializable {
 
@@ -16,7 +19,7 @@ public class Level implements Serializable {
     }
 
 
-
+    //for serializable
     private Object readResolve() {
 
 
@@ -39,6 +42,16 @@ public class Level implements Serializable {
         return this.value;
     }
 
+    static final class KnownLevel {
 
-
+        private static Map<String, List<KnownLevel>> nameToLevels = new HashMap<String, List<KnownLevel>>();
+        private static Map<Integer, List<KnownLevel>> intToLevels = new HashMap<Integer, List<KnownLevel>>();
+        // for sub-class
+        private Level levelObject;
+        // for only level class
+        private Level mirroredLevel;
+        public KnownLevel(Level level) {
+            levelObject = level;
+        }
+    }
 }
