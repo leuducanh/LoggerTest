@@ -285,4 +285,5 @@ public class LogRecord implements Serializable {
     public void setMillis(long millis) {
         this.millis = millis;
     }
+
 }

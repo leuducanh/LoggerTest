@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffbe4c50-ad1f-47c4-b536-99239b476ca3" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/main/CustomThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/main/TestAbillityOfAtomic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -10,6 +11,13 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/LogRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/LogRecord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/LogRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoggerTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Level.java" afterDir="false" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,6 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/LogRecord.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,6 +56,13 @@
                 <element signature="e#8697#8698#0" expanded="true" />
                 <element signature="e#8733#8734#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/logging/Level.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5280">
+              <caret line="370" column="17" selection-start-line="370" selection-start-column="17" selection-end-line="370" selection-end-column="17" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
             </state>
           </provider>
         </entry>
@@ -54,13 +70,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/main/TestAbillityOfAtomic.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="224">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+=======
+            <state relative-caret-position="112">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogRecord.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="16">
@@ -87,10 +112,22 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="686">
               <caret line="556" lean-forward="true" selection-start-line="556" selection-end-line="556" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/Level.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="784">
+              <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1818#1819#0" expanded="true" />
+                <element signature="e#1851#1852#0" expanded="true" />
+              </folding>
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,22 +168,31 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/LogRecord.java">
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22288">
-              <caret line="1470" column="16" selection-start-line="1470" selection-start-column="16" selection-end-line="1470" selection-end-column="16" />
+            <state relative-caret-position="96">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/SecurityManager.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/logging/Logger.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="410">
               <caret line="547" column="16" selection-start-line="547" selection-start-column="16" selection-end-line="547" selection-end-column="16" />
               <folding>
                 <element signature="e#21372#21373#0" expanded="true" />
                 <element signature="e#21440#21441#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="3488">
+              <caret line="254" selection-start-line="254" selection-end-line="254" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
             </state>
           </provider>
         </entry>
@@ -173,10 +219,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/util/Level.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/CustomThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/TestAbillityOfAtomic.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
+=======
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
         <option value="$PROJECT_DIR$/src/main/java/util/LogRecord.java" />
       </list>
     </option>
@@ -189,10 +238,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="1075" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,7 +248,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +264,7 @@
               <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LoggerTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
@@ -246,20 +299,82 @@
               <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LoggerTest" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+=======
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoggerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoggerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoggerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoggerTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553476192963" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gridgo-examples/gridgo-example-first-app" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554174441332" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -326,21 +441,36 @@
       <workItem from="1553514106670" duration="6354000" />
       <workItem from="1554003324752" duration="598000" />
       <workItem from="1554120124266" duration="4902000" />
+<<<<<<< HEAD
       <workItem from="1554221701411" duration="7485000" />
       <workItem from="1554390046815" duration="603000" />
       <workItem from="1554463539039" duration="4756000" />
       <workItem from="1554476074851" duration="26286000" />
+=======
+      <workItem from="1554171704681" duration="2011000" />
+      <workItem from="1554175403107" duration="5517000" />
+      <workItem from="1554205120648" duration="569000" />
+      <workItem from="1554257873660" duration="577000" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="86306000" />
+=======
+    <option name="totallyTimeSpent" value="55850000" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="1075" width="1853" height="1055" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2465374" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2711774" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -355,7 +485,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32901832" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3279396" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32864866" />
@@ -370,6 +504,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Quick Notes" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +515,11 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/main/Main.java</url>
+<<<<<<< HEAD
           <line>10</line>
+=======
+          <line>12</line>
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -397,6 +536,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Locale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -515,12 +655,44 @@
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Handler.java">
+=======
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Locale.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Class.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Level.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/instrument/TransformerManager.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/atomic/AtomicLong.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Number.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogRecord.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/String.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ResourceBundle.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Filter.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Logging.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/security/AccessController.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Void.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Runtime.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Logger.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Handler.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogManager.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ref/Reference.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ref/WeakReference.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/WeakHashMap.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/security/Permission.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/SecurityManager.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/logging/Level.java">
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+        <state relative-caret-position="5280">
+          <caret line="370" column="17" selection-start-line="370" selection-start-column="17" selection-end-line="370" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15264">
@@ -534,10 +706,19 @@
             <element signature="e#35809#35810#0" expanded="true" />
             <element signature="e#46966#46967#0" expanded="true" />
             <element signature="e#47006#47007#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ref/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3552">
@@ -550,23 +731,28 @@
       </provider>
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ref/WeakReference.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Level.java">
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="784">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
           <folding>
-            <element signature="e#1898#1899#0" expanded="true" />
-            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1818#1819#0" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/WeakHashMap.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/logging/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8768">
-          <caret line="594" column="13" selection-start-line="594" selection-start-column="13" selection-end-line="594" selection-end-column="13" />
+        <state relative-caret-position="3488">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/util/Level.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -724,6 +910,12 @@
             <element signature="e#8697#8698#0" expanded="true" />
             <element signature="e#8733#8734#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/LogRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+>>>>>>> 5488dab7b99aebe5893e69018b203e5dfcd08537
         </state>
       </provider>
     </entry>

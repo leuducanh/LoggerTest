@@ -1,6 +1,7 @@
 package main;
 
-import java.util.logging.Level;
+import util.Level;
+
 import java.util.logging.Logger;
 
 public class Main {
@@ -15,9 +16,16 @@ public class Main {
 //        customThread.start();
 //        customThread1.start();
 
-            final long MICROS_PER_DAY = 24 * 60 * 60 * 1000 * 1000;
-            final long MILLIS_PER_DAY = 24 * 60 * 60 * 1000;
-            System.out.println(MICROS_PER_DAY / MILLIS_PER_DAY);
+//        logger.entering(Main.class.getName(), "doIt");
+//        System.out.println("a1");
+//        try{
+//            //... something that can throw an exception
+//            long a = 1/0;
+//        } catch (Exception e) {
+//            logger.log(Level.SEVERE, "Error doing XYZ", e);
+//        }
+//
+//        logger.exiting(Main.class.getName(), "doIt");
 
     }
 }
