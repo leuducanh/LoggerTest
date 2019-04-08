@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffbe4c50-ad1f-47c4-b536-99239b476ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/LogRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/CustomThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/TestAbillityOfAtomic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/LogRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/LogRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,96 +21,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/Level.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/LogRecord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+            <state relative-caret-position="542">
+              <caret line="179" column="49" lean-forward="true" selection-start-line="179" selection-start-column="49" selection-end-line="179" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#507#516#0" expanded="true" />
+                <element signature="e#3255#3256#0" expanded="true" />
+                <element signature="e#3351#3352#0" expanded="true" />
+                <element signature="e#3410#3411#0" expanded="true" />
+                <element signature="e#3700#3701#0" expanded="true" />
+                <element signature="e#4173#4174#0" expanded="true" />
+                <element signature="e#8319#8320#0" expanded="true" />
+                <element signature="e#8357#8358#0" expanded="true" />
+                <element signature="e#8396#8397#0" expanded="true" />
+                <element signature="e#8429#8430#0" expanded="true" />
+                <element signature="e#8460#8461#0" expanded="true" />
+                <element signature="e#8489#8490#0" expanded="true" />
+                <element signature="e#8528#8529#0" expanded="true" />
+                <element signature="e#8560#8561#0" expanded="true" />
+                <element signature="e#8613#8614#0" expanded="true" />
+                <element signature="e#8655#8656#0" expanded="true" />
+                <element signature="e#8697#8698#0" expanded="true" />
+                <element signature="e#8733#8734#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/main/TestAbillityOfAtomic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="190" selection-start-line="190" selection-end-line="190" />
+              <folding>
+                <element signature="e#5717#5718#0" expanded="true" />
+                <element signature="e#5750#5751#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="172" column="6" lean-forward="true" selection-start-line="172" selection-start-column="6" selection-end-line="172" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="686">
+              <caret line="556" lean-forward="true" selection-start-line="556" selection-end-line="556" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="75" column="12" lean-forward="true" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+              <folding>
+                <element signature="e#1762#1763#0" expanded="true" />
+                <element signature="e#1798#1799#0" expanded="true" />
+                <element signature="e#2195#2196#0" expanded="true" />
+                <element signature="e#2227#2228#0" expanded="true" />
+                <element signature="e#4725#4726#0" expanded="true" />
+                <element signature="e#4793#4794#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/LogRecord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
-              <folding>
-                <element signature="e#250#259#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15264">
-              <caret line="1017" column="16" selection-start-line="1017" selection-start-column="16" selection-end-line="1017" selection-end-column="16" />
-              <folding>
-                <element signature="e#9993#9994#0" expanded="true" />
-                <element signature="e#10041#10042#0" expanded="true" />
-                <element signature="e#27595#27596#0" expanded="true" />
-                <element signature="e#27641#27642#0" expanded="true" />
-                <element signature="e#35755#35756#0" expanded="true" />
-                <element signature="e#35809#35810#0" expanded="true" />
-                <element signature="e#46966#46967#0" expanded="true" />
-                <element signature="e#47006#47007#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ref/Reference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3552">
-              <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
-              <folding>
-                <element signature="e#9341#9342#0" expanded="true" />
-                <element signature="e#9377#9378#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/ref/WeakReference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
-              <folding>
-                <element signature="e#1898#1899#0" expanded="true" />
-                <element signature="e#1932#1933#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/WeakHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8768">
-              <caret line="594" column="13" selection-start-line="594" selection-start-column="13" selection-end-line="594" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/security/Permission.java">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,7 +141,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/SecurityManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8016">
+            <state relative-caret-position="410">
               <caret line="547" column="16" selection-start-line="547" selection-start-column="16" selection-end-line="547" selection-end-column="16" />
               <folding>
                 <element signature="e#21372#21373#0" expanded="true" />
@@ -150,8 +172,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/Level.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/CustomThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/TestAbillityOfAtomic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/LogRecord.java" />
       </list>
     </option>
@@ -175,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,51 +247,11 @@
               <item name="LoggerTest" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LoggerTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,6 +259,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553476192963" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gridgo-examples/gridgo-example-first-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -291,9 +278,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="LoggerTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbillityOfAtomic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.TestAbillityOfAtomic" />
       <module name="LoggerTest" />
       <extension name="coverage">
         <pattern>
@@ -308,6 +308,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestAbillityOfAtomic" />
       </list>
     </recent_temporary>
   </component>
@@ -325,18 +326,21 @@
       <workItem from="1553514106670" duration="6354000" />
       <workItem from="1554003324752" duration="598000" />
       <workItem from="1554120124266" duration="4902000" />
-      <workItem from="1554221701411" duration="4334000" />
+      <workItem from="1554221701411" duration="7485000" />
+      <workItem from="1554390046815" duration="603000" />
+      <workItem from="1554463539039" duration="4756000" />
+      <workItem from="1554476074851" duration="26286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51510000" />
+    <option name="totallyTimeSpent" value="86306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="1075" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26260388" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2465374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -345,16 +349,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32901832" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.399137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.09513514" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399137" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32901832" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32901832" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32864866" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -376,7 +380,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/main/Main.java</url>
-          <line>11</line>
+          <line>10</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -393,13 +397,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Locale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -411,18 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="642" selection-start-line="642" selection-end-line="642" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Level.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="403" selection-start-line="403" selection-end-line="403" />
-          <folding>
-            <element signature="e#7099#7100#0" expanded="true" />
-            <element signature="e#7158#7159#0" expanded="true" />
-            <element signature="e#13959#13960#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -456,37 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="e#1762#1763#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogRecord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="204" selection-start-line="204" selection-end-line="204" />
-          <folding>
-            <element signature="e#5717#5718#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -515,13 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Logging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -567,16 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -626,6 +567,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Logging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8176">
+          <caret line="557" column="4" selection-start-line="557" selection-start-column="4" selection-end-line="557" selection-end-column="4" />
+          <folding>
+            <element signature="e#7099#7100#0" expanded="true" />
+            <element signature="e#7158#7159#0" expanded="true" />
+            <element signature="e#13931#13932#0" expanded="true" />
+            <element signature="e#13959#13960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/CustomThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/security/Permission.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -636,9 +624,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="357" column="21" selection-start-line="357" selection-start-column="21" selection-end-line="357" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="75" column="12" lean-forward="true" selection-start-line="75" selection-start-column="12" selection-end-line="75" selection-end-column="12" />
+          <folding>
+            <element signature="e#1762#1763#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#2195#2196#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
+            <element signature="e#4725#4726#0" expanded="true" />
+            <element signature="e#4793#4794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/SecurityManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8016">
+        <state relative-caret-position="410">
           <caret line="547" column="16" selection-start-line="547" selection-start-column="16" selection-end-line="547" selection-end-column="16" />
           <folding>
             <element signature="e#21372#21373#0" expanded="true" />
@@ -647,30 +667,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/Level.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/TestAbillityOfAtomic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        <state relative-caret-position="224">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="556" lean-forward="true" selection-start-line="556" selection-end-line="556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="172" column="6" lean-forward="true" selection-start-line="172" selection-start-column="6" selection-end-line="172" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/logging/LogRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#5717#5718#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/LogRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+        <state relative-caret-position="542">
+          <caret line="179" column="49" lean-forward="true" selection-start-line="179" selection-start-column="49" selection-end-line="179" selection-end-column="49" />
           <folding>
-            <element signature="e#250#259#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#507#516#0" expanded="true" />
+            <element signature="e#3255#3256#0" expanded="true" />
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3410#3411#0" expanded="true" />
+            <element signature="e#3700#3701#0" expanded="true" />
+            <element signature="e#4173#4174#0" expanded="true" />
+            <element signature="e#8319#8320#0" expanded="true" />
+            <element signature="e#8357#8358#0" expanded="true" />
+            <element signature="e#8396#8397#0" expanded="true" />
+            <element signature="e#8429#8430#0" expanded="true" />
+            <element signature="e#8460#8461#0" expanded="true" />
+            <element signature="e#8489#8490#0" expanded="true" />
+            <element signature="e#8528#8529#0" expanded="true" />
+            <element signature="e#8560#8561#0" expanded="true" />
+            <element signature="e#8613#8614#0" expanded="true" />
+            <element signature="e#8655#8656#0" expanded="true" />
+            <element signature="e#8697#8698#0" expanded="true" />
+            <element signature="e#8733#8734#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main/TestThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>

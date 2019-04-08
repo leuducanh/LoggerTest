@@ -5,20 +5,19 @@ import java.util.logging.Logger;
 
 public class Main {
 
-    private static final Logger logger =
-            Logger.getLogger(Main.class.getName());
+
 
     public static void main(String[] args) {
-        System.out.println("a");
-        logger.entering(Main.class.getName(), "doIt");
-        System.out.println("a1");
-        try{
-            //... something that can throw an exception
-            long a = 1/0;
-        } catch (Exception e) {
-            logger.log(Level.SEVERE, "Error doing XYZ", e);
-        }
 
-        logger.exiting(Main.class.getName(), "doIt");
+//        CustomThread customThread = new CustomThread(1," Thread bat dau tu 1 ");
+//        CustomThread customThread1 = new CustomThread(50," Thread bat dau tu 50 ");
+//
+//        customThread.start();
+//        customThread1.start();
+
+            final long MICROS_PER_DAY = 24 * 60 * 60 * 1000 * 1000;
+            final long MILLIS_PER_DAY = 24 * 60 * 60 * 1000;
+            System.out.println(MICROS_PER_DAY / MILLIS_PER_DAY);
+
     }
 }
