@@ -266,6 +266,10 @@ public class LogRecord implements Serializable {
         this.message = message;
     }
 
+    public String getMessage() {
+        return message;
+    }
+
     public Object[] getParameters() {
         return parameters;
     }
