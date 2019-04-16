@@ -15,9 +15,9 @@ public class Level implements Serializable {
     private final int value;
 
     public static final Level OFF = new Level("OFF",1);
-    public static final Level INFO = new Level("INFO",1);
-    public static final Level DEBUG = new Level("DEBUG",1);
-    public static final Level ALL = new Level("ALL",1);
+    public static final Level ALL = new Level("ALL",3);
+    public static final Level INFO = new Level("INFO",5);
+    public static final Level DEBUG = new Level("DEBUG",7);
 
     public Level(String name, int value) {
         this.name = name;
